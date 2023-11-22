@@ -1,0 +1,17 @@
+# .gitignore
+
+# Ignore a specific file
+#filename.txt
+
+# Ignore all files with a certain extension
+#*.log
+
+# Ignore all files in a specific directory
+/home/usamakr706/Usama_GitHub/my-notebooks-repo/.ipynb_checkpoints/
+
+# Ignore all .class files
+#*.class
+
+# Ignore files in a specific directory and its subdirectories
+#/logs/
+
